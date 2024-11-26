@@ -9,5 +9,5 @@ CSS Grid is used for layout.
 https://pannuyn.github.io/SimpleCalculator/
 
 ## Screenshot
-![Result screenshot](image.png)
+![Result screenshot](./result-photos/image.png)
 Other result screenshots can be viewed in "result-photos" folder.
