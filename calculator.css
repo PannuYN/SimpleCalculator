@@ -1,0 +1,37 @@
+.custom-btn {
+    font-size: 20px; /* make the text in button bigger */
+}
+.add-btn {
+    font-size: 25px;
+    background-color: cadetblue;
+    color: white;
+}
+.custom-btn:hover, .function-btn:hover, .add-btn:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.input-bar {
+    border: none; 
+    font-size: 40px;
+    text-align: right;
+}
+
+.container {
+    border: 2px solid black;
+}
+
+.fixed-width {
+    width: 95%; /* Default width for small screens */
+}
+
+/* For screens larger than 400px */
+@media (min-width: 375px) {
+    .fixed-width {
+        width: 350px;
+    }
+}
+
+
+

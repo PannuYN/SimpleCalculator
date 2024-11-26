@@ -1,0 +1,3 @@
+A fully functional calculator.
+The design is inspired from iPhone calculator.
+The photos of the layout and the user interface can be found in the "result-photos" folder.
